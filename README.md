@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Theeradej Thisthasa (dejth)
+# 🤘 Hi, I'm Theeradej Thisthasa (dejth)
 
 ## 🚀 About Me
 
