@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Theeradej Thisthasa (theeradejth)
+
+## 🚀 About Me
+
+I'm a CTO & Full-Stack Developer passionate about building smart, lightweight, and modular systems. I thrive on solving developer pain points with elegant solutions and love working late into the night with a cup of black coffee.
+
+## 🛠️ Top Skills
+
+- **Languages & Frameworks:** Python, JavaScript (Node.js), TypeScript, Dart (Flutter), Next.js, React, FastAPI
+- **AI & CV:** YOLOv11, DeepSORT
+- **Databases:** SQLite (with vector search)
+- **Messaging & Automation:** RabbitMQ, Docker, n8n, LangChain
+
+## 💡 What Drives Me
+
+- Exploring open-source tools and automation frameworks
+- Building modular architectures that are easy to extend and maintain
+- Finding and fixing developer pain points with smart, simple solutions
+
+## 🤖 Fun Facts / Hobbies
+
+- Enjoys late-night coding with black coffee
+- Always on the lookout for the next open-source gem
+- Loves tinkering with automation and cloud-native workflows
+
+
 
 <!--
-**theeradejth/theeradejth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to update the avatar above if you prefer a custom image.
+-->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+_No favorite projects listed. Add yours here if you'd like!_
 -->
